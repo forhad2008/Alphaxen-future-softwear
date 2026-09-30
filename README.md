@@ -1,11 +1,38 @@
-<div align="center">
+# Alphaxen-FontLab
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A static, responsive website based on the Alphaxen-FontLab visual direction.
 
-  <h1>Built with AI Studio</h2>
+## Files
+- `index.html` — complete page structure
+- `styles.css` — visual system and responsive layout
+- `script.js` — Font Maker interactions
+- `bg.png` — cinematic stone / textured A background
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Run
+Keep all four files in the same folder and open `index.html`.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Replace the background
+If you already have your own `bg.png`, simply replace the included `bg.png` with yours.
 
-</div>
+## Main visual map
+1. Sticky glass navigation
+2. Cinematic hero using `bg.png`
+3. Vertical typography tool rail
+4. Five-item trust/quality strip
+5. Featured font card grid
+6. Font Maker promotional card
+7. Interactive Font Maker / Type Engine
+8. More Than Fonts studio navigation
+9. Collaboration/contact section
+10. Minimal footer
+
+
+## Image assets for the logo and Latest Creations
+Place these files beside `index.html`:
+- `logo.png` — Alphaxen-FontLab logo
+- `imperial-eagle.webp` — Imperial Eagle preview
+- `bloody-dragon.webp` — Bloody Dragon preview
+- `arctic-bear.webp` — Arctic Bear preview
+- `better-jellyfish.webp` — Better Jellyfish preview
+
+The cards are now image-first and preserve the same dark cinematic framing.
